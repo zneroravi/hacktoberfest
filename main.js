@@ -1,10 +1,10 @@
 var config = {
-  apiKey: "xxxxx",
-  authDomain: "xxxxx",
-  databaseURL: "xxxxx",
-  projectId: "xxxxx",
-  storageBucket: "xxxxx",
-  messagingSenderId: "xxxxx"
+  apiKey: "x",
+  authDomain: "x",
+  databaseURL: "x",
+  projectId: "x",
+  storageBucket: "x",
+  messagingSenderId: "x"
 };
 firebase.initializeApp(config);
 
